@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "module": "esnext",
+    "lib": ["esnext", "dom"],
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "strict": true,
+    "strictNullChecks": true,
+    "skipDefaultLibCheck": true,
+    "outDir": "./dist",
+    "declaration": true,
+    "paths": {},
+    "types": [
+      "node",
+    ]
+  },
+  "exclude": [ "**/dist/**"]
+}
