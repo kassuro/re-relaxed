@@ -1,2 +1,3 @@
-# re-relaxed
-Spiritual successor of RelaxedJS/ReLaXed. Make creating PDFs easy.
+# privat play ground
+
+actural repo is over at https://github.com/re-relaxed/re-relaxed
